@@ -1,0 +1,13 @@
+.DS_Store
+node_modules/
+*/node_modules/
+*/*/node_modules/
+dist/
+*/dist/
+*/*/dist/
+*.db
+*.db-journal
+*.log
+__pycache__/
+*.pyc
+.env
