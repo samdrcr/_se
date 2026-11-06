@@ -1,0 +1,38 @@
+lock-version = "1.0"
+created-by = "uv"
+requires-python = ">=3.12.7"
+
+[[packages]]
+name = "anyio"
+version = "4.16.0"
+wheels = [{ url = "https://files.pythonhosted.org/packages/a9/16/7757fb84c819accc7d7e9af5291b261e4abb8627ee040f99e7d35ef2457a/anyio-4.16.0-py3-none-any.whl", upload-time = 2026-11-01T11:20:05Z, size = 134521, hashes = { sha256 = "c66ae634e0b8228396b801741beb3294326d4b6102f7bba4041c0dfb58c29026" } }]
+
+[[packages]]
+name = "fastapi"
+version = "0.99.1"
+wheels = [{ url = "https://files.pythonhosted.org/packages/73/eb/03b691afa0b5ffa1e93ed34f97ec1e7855c758efbdcfb16c209af0b0506b/fastapi-0.99.1-py3-none-any.whl", upload-time = 2023-07-02T16:04:01Z, size = 58366, hashes = { sha256 = "976df7bab51ac7beda9f68c4513b8c4490b5c1135c72aafd0a5ee4023ec5282e" } }]
+
+[[packages]]
+name = "idna"
+version = "3.20"
+wheels = [{ url = "https://files.pythonhosted.org/packages/58/a2/bb081bab032533a855d44de1d56f8e8426114ff1ba5d1f07a438a0a654f8/idna-3.20-py3-none-any.whl", upload-time = 2026-09-17T14:11:03Z, size = 69583, hashes = { sha256 = "ab7ae7122974553370f0bdb919e1a960b2cd1bc1ef0276416d896db81c14582c" } }]
+
+[[packages]]
+name = "pydantic"
+version = "1.10.27"
+wheels = [{ url = "https://files.pythonhosted.org/packages/3f/6b/47ebfcc96c4fab8bd0a37f448d94389bdd05fddc92d5485f9419ef9b19de/pydantic-1.10.27-py3-none-any.whl", upload-time = 2026-10-29T15:36:41Z, size = 167324, hashes = { sha256 = "d714c3df0db634a6720abdc204d7b3bfc6c62d4ef7b4f9dcd64b37c29187a058" } }]
+
+[[packages]]
+name = "starlette"
+version = "0.27.0"
+wheels = [{ url = "https://files.pythonhosted.org/packages/58/f8/e2cca22387965584a409795913b774235752be4176d276714e15e1a58884/starlette-0.27.0-py3-none-any.whl", upload-time = 2023-05-16T10:59:53Z, size = 66978, hashes = { sha256 = "918416370e846586541235ccd38a474c08b80443ed31c578a418e2209b3eef91" } }]
+
+[[packages]]
+name = "typing-extensions"
+version = "4.16.0"
+wheels = [{ url = "https://files.pythonhosted.org/packages/49/d3/b8441a820a491ddfc024b0b0cf0393375b75ea13866d9c66727e54c2fc80/typing_extensions-4.16.0-py3-none-any.whl", upload-time = 2026-07-02T08:40:04Z, size = 45571, hashes = { sha256 = "481caa481374e813c1b176ada14e97f1f67a4539ce9cfeb3f350d78d6370c2e8" } }]
+
+[[packages]]
+name = "workers-runtime-sdk"
+version = "1.9.6"
+wheels = [{ url = "https://files.pythonhosted.org/packages/58/e4/fffa3f6b3eb91b34dcc06f0b9de016cb90c156ae2a2e944054b02618e981/workers_runtime_sdk-1.9.6-py3-none-any.whl", upload-time = 2026-11-04T07:04:34Z, size = 41483, hashes = { sha256 = "f343880a9c1380dd9b340808df93d584ff3c77428f932e14f4a23c36b7bd1bdc" } }]
