@@ -1,0 +1,8 @@
+{
+  "name": "catal1st-logger-utils",
+  "version": "1.0.0",
+  "description": "A lightweight custom terminal logger utility",
+  "main": "index.js",
+  "author": "Samuel Audric Raphael",
+  "license": "MIT"
+}
